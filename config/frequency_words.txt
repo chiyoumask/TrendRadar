@@ -14,3 +14,5 @@ google
 公益
 api
 gemini
+分享
+订阅
