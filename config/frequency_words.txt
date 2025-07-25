@@ -1,4 +1,6 @@
 AI
+开源
+OpenAI
 kimi
 DeepSeek
 google
@@ -6,3 +8,6 @@ google
 阿里
 腾讯
 拼多多
+免费
+部署
+模型
