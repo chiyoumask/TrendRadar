@@ -11,3 +11,6 @@ google
 免费
 部署
 模型
+公益
+api
+gemini
