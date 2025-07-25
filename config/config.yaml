@@ -52,7 +52,7 @@ platforms:
     name: "今日头条"
   - id: "bilibili"
     name: "bilibili"
-  - id: "linuxdo"
+  - id: "k.id"
     name: "linuxdo"     
   - id: "baidu"
     name: "百度热搜"
